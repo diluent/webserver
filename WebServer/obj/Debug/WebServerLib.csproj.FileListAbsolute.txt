@@ -1,0 +1,13 @@
+D:\Projects\WebServer\WebServer\bin\Debug\WebServerLib.dll
+D:\Projects\WebServer\WebServer\bin\Debug\WebServerLib.pdb
+D:\Projects\WebServer\WebServer\bin\Debug\System.Reactive.Core.dll
+D:\Projects\WebServer\WebServer\bin\Debug\System.Reactive.Interfaces.dll
+D:\Projects\WebServer\WebServer\bin\Debug\System.Reactive.Linq.dll
+D:\Projects\WebServer\WebServer\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Projects\WebServer\WebServer\bin\Debug\System.Reactive.Core.xml
+D:\Projects\WebServer\WebServer\bin\Debug\System.Reactive.Interfaces.xml
+D:\Projects\WebServer\WebServer\bin\Debug\System.Reactive.Linq.xml
+D:\Projects\WebServer\WebServer\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Projects\WebServer\WebServer\obj\Debug\WebServerLib.csprojResolveAssemblyReference.cache
+D:\Projects\WebServer\WebServer\obj\Debug\WebServerLib.dll
+D:\Projects\WebServer\WebServer\obj\Debug\WebServerLib.pdb

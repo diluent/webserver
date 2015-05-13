@@ -1,0 +1,16 @@
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\ConsoleWebServer.exe.config
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\ConsoleWebServer.exe
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\ConsoleWebServer.pdb
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\System.Data.SQLite.dll
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\WebServerLib.dll
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\System.Reactive.Linq.dll
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\System.Reactive.Interfaces.dll
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\System.Reactive.Core.dll
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\WebServerLib.pdb
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\System.Data.SQLite.xml
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\System.Reactive.Linq.xml
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\System.Reactive.Interfaces.xml
+D:\Projects\WebServer\ConsoleWebServer\bin\Debug\System.Reactive.Core.xml
+D:\Projects\WebServer\ConsoleWebServer\obj\Debug\ConsoleWebServer.csprojResolveAssemblyReference.cache
+D:\Projects\WebServer\ConsoleWebServer\obj\Debug\ConsoleWebServer.exe
+D:\Projects\WebServer\ConsoleWebServer\obj\Debug\ConsoleWebServer.pdb

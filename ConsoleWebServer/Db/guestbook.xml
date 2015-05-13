@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GuestBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserMessages>
+    <Item>
+      <User>aaaaa</User>
+      <Message>wregaergr</Message>
+    </Item>
+    <Item>
+      <User>bbbbb</User>
+      <Message>sosregme erhgwstsrtsrt</Message>
+    </Item>
+    <Item>
+      <User>ccccc</User>
+      <Message>w45ywotjhw45hwihr5gao8h45g</Message>
+    </Item>
+    <Item>
+      <User>4tw45hs</User>
+      <Message>5hdrthdrt</Message>
+    </Item>
+  </UserMessages>
+</GuestBook>

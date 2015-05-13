@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWebServer", "ConsoleWebServer\ConsoleWebServer.csproj", "{316E3152-A5E0-4EA0-AA29-C2D27B627D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServerLib", "WebServer\WebServerLib.csproj", "{04E12149-03FC-400C-B097-794C0888619D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316E3152-A5E0-4EA0-AA29-C2D27B627D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316E3152-A5E0-4EA0-AA29-C2D27B627D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316E3152-A5E0-4EA0-AA29-C2D27B627D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316E3152-A5E0-4EA0-AA29-C2D27B627D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E12149-03FC-400C-B097-794C0888619D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E12149-03FC-400C-B097-794C0888619D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E12149-03FC-400C-B097-794C0888619D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E12149-03FC-400C-B097-794C0888619D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

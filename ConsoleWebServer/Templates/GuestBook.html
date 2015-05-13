@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8"/>
+    <title>Гостевая книга</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            var cont = $("#messages");
+            $.ajax({
+                type: "GET",
+                url: "jsonlist/",
+                success: function (d) {
+                    for (var index = 0; index < d.data.length; ++index) {
+                        cont.append("<tr><td>" + d.data[index].User + "</td><td>" + d.data[index].Message + "</td></tr>");
+                    }
+                }
+            });
+
+        });
+    </script>
+</head>
+<body>
+
+<h3>Guestbook</h3>
+
+<table id="messages">
+    <tr>
+        <th>User</th>
+        <th>Message</th>
+    </tr>
+</table>
+
+<form method="post">
+    <p>User:</p>
+    <p>
+        <input name="User" type="text"/>
+    </p>
+
+    <p>Message:</p>
+    <p>
+        <textarea name="message" cols="40" rows="3"></textarea>
+    </p>
+    <input type="submit" value="Send"/>
+</form>
+
+</body>
+</html>
